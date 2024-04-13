@@ -4,6 +4,8 @@ In this project basic Bash utilities such as grep and cat are implemented. Proje
 # Compilation
 To compile BashUtil u should use Makefile. Each program has its own Makefile in its folder.  Open the desired folder and  use `make cat` or `make grep` respectively.
 
+# Usage
+
 ### cat Usage
 
 `cat [OPTION] [FILE]...`
